@@ -1,9 +1,11 @@
 # Inventory-Management-System
 This software doesn't work as expected. It is my college project.
 Help is needed for its proper functioning.
-To run this software you first need to login.
+Run ivms.py.
+You first need to login.
 Use user-id: Shivam.
 Use password: ascaban.
+Make sure all the three files- ivms.py, widget_file.py and create_tool_tip are in the same folder.
 
 It has 3 tabs-
 1. Data Entry: To enter product details and then store the entered data in a txt file and display them on spreadsheet tab.
